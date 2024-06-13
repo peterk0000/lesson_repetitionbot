@@ -1,4 +1,4 @@
-TOKEN = '6452231424:AAELCqTl01Rt5GA2NFX5_FsxTOjqBQoH2Hc'
+TOKEN = 'TOKEN'
 LOGS = 'logs.txt'
 assistant_content = 'Напомни тему: '
 GPT_LOCAL_URL = 'http://localhost:1234/v1/chat/completions'
