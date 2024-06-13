@@ -1,0 +1,4 @@
+telebot 4.14.0
+requests 2.31.0
+sqlite3 1.0.0
+logging 1.0.0
